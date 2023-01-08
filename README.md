@@ -71,7 +71,7 @@ input_data yang meminta pengguna memasukkan data.
    
    ![Screenshot (32)](https://user-images.githubusercontent.com/115637858/211178647-f056f8a9-04a1-4f0d-9816-ef276cd29bf1.png)
    
-   -file view_nilai.py untuk mencetak hasil pencarian user menggunakan tabulate 
+   - file view_nilai.py untuk mencetak hasil pencarian user menggunakan tabulate 
 
     Dibawah script view_nilai.py :
    
