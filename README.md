@@ -38,13 +38,13 @@ input_data yang meminta pengguna memasukkan data.
 
 # Penjelasan Program
 
-    . Pertama buat Package yang berisi file  Model yang didalamnya meliputi 
+    - Pertama buat Package yang berisi file  Model yang didalamnya meliputi 
     
     __init__.py dan daftar_nilai.py dan file view meliputi __init__.py, 
     
     input_nilai.py, dan view_nilai.py serta main,py sebagai program utama
 
-    . Buat file main.py berisi Menu Data yang ditampilkan untuk pilihan user
+    - Buat file main.py berisi Menu Data yang ditampilkan untuk pilihan user
     
      menggunakan perulangan while True, juga berisi code yang menyatukan fungsi 
      
@@ -57,13 +57,13 @@ input_data yang meminta pengguna memasukkan data.
 
    ![Screenshot (29)](https://user-images.githubusercontent.com/115637858/211178056-498b140b-f202-4981-bccd-fd8067fa37bf.png)
    
-   . Buat fungsi data yang berada di modul daftar_niali.py berupa tambah-data, ubah_data, hapus_data, cari_data
+   - Buat fungsi data yang berada di modul daftar_niali.py berupa tambah-data, ubah_data, hapus_data, cari_data
 
     Dibawah ini script daftar_nilai.py :
     
    ![Screenshot (30)](https://user-images.githubusercontent.com/115479946/211178472-83a86efe-7c63-4a3d-8669-fde26e4ec6b0.png)
    
-    . Membuat fungsi untuk user memasukkan data yang berada pada file input_data.py di modul view
+    - Membuat fungsi untuk user memasukkan data yang berada pada file input_data.py di modul view
 
     Dibawah script input_data.py :
     
@@ -71,7 +71,7 @@ input_data yang meminta pengguna memasukkan data.
    
    ![Screenshot (32)](https://user-images.githubusercontent.com/115637858/211178647-f056f8a9-04a1-4f0d-9816-ef276cd29bf1.png)
    
-    . file view_nilai.py untuk mencetak hasil pencarian user menggunakan tabulate 
+    - file view_nilai.py untuk mencetak hasil pencarian user menggunakan tabulate 
 
     Dibawah script view_nilai.py :
    
@@ -94,7 +94,7 @@ input_data yang meminta pengguna memasukkan data.
    ![Screenshot (37)](https://user-images.githubusercontent.com/115637858/211179114-6272442b-61b0-4f63-af97-bb62e33f7ae0.png)
 
     
-    ## Cari data dan Keluar
+    ##  Cari data dan Keluar
 
    ![Screenshot (38)](https://user-images.githubusercontent.com/115637858/211179373-be76aed7-5d41-44bc-bedd-63b017cb941e.png)
    
@@ -102,7 +102,7 @@ input_data yang meminta pengguna memasukkan data.
 
 
     
-    ## Sekian Dan Terima Kasih
+    ##  Sekian Dan Terima Kasih
 
 
 
